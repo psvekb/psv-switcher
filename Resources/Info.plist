@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key><string>PSVSwitcher</string>
+    <key>CFBundleDisplayName</key><string>PSV Switcher</string>
+    <key>CFBundleIdentifier</key><string>com.user.psvswitcher</string>
+    <key>CFBundleVersion</key><string>1.0.0</string>
+    <key>CFBundleShortVersionString</key><string>1.0.0</string>
+    <key>CFBundleExecutable</key><string>PSVSwitcher</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>LSUIElement</key><true/>
+    <key>NSAccessibilityUsageDescription</key><string>PSV Switcher needs Accessibility access to track typing and convert the last word or selected text between Russian and English layouts when you press Caps Lock.</string>
+    <key>NSAppleEventsUsageDescription</key><string>PSV Switcher uses AppleEvents to read and replace selected text in other applications.</string>
+</dict>
+</plist>
